@@ -1,0 +1,44 @@
+
+    #cartDis{
+        display: flex;
+        
+        justify-content: space-around;
+        padding: 5%;
+    }
+    #cartItemDiv{
+        border: 1px solid rgb(32, 192, 192);
+        padding: 2%;
+    }
+    img{
+        width: 95%;
+    }
+    h3{
+        text-align: center;
+    }
+    #removeBtn{
+        margin-left: 20%;
+        background-color: brown;
+        border: none;
+        border-radius: 10%;
+        color: wheat;
+    }
+    #cartval{
+        border: 1px solid rgb(183, 190, 190);
+        background-color: rgb(200, 200, 218);
+        border-radius: 5%;
+        padding: 2%;
+        text-align: center;
+        width:50%;
+    }
+    p{
+        font-size: large;
+        font-weight: bold;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    #checkoutBtn{
+        margin-left: 80%;
+        border: none;
+        background-color: brown;
+        color: wheat;
+        padding: 1%;
+    }
